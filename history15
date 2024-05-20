@@ -1,0 +1,15 @@
+    6  grep -w nologin /etc/passwd | wc-l
+    7  grep -w nologin /etc/passwd | wc -l
+    8  grep 명령 *.txt
+    9  clear
+   10  history
+   11  history | grep -w echo
+   12  history | grep -w echo | wc -l
+   13  history | grep -w echo | wc -l > gi.txt
+   14  vi how are you?.txt
+   15  ls 'how are you?'
+   16  ls '"how are you?"'
+   17  history
+   18  history15
+   19  history 15
+   20  history 15 > history15
