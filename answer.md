@@ -109,7 +109,7 @@ cut -f1 animals.txt | rev | cut -c-2 | rev
 ## 명령어로 다음의 디렉토리를 구현하시오.
 * 현재 위치 company
 * 노란 부분의 'Forders'에 해당하는 부분을 구현
-![38F941CD-A819-4B2B-9F40-946259761112](38F941CD-A819-4B2B-9F40-946259761112.png)
+![38F941CD-A819-4B2B-9F40-946259761112](img/dir_structure.png)
 ```sh
 mkdir "Department X" "Shared infrastructure"
 mkdir "Department Y/Team A"
